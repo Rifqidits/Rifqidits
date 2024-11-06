@@ -1,8 +1,9 @@
 Hi! 
 
-I'm Rifqi, a  person with a desire to leverage visual arts, programming expertise, and data analysis skills in a data science. Commanded the light for several events, a feat honed over the past two years in the Adobe Creative Cloud environment. Now, diving deeper into IT development, harnessing computational thinking. Also interested in how automation and artificial intelligence work effectively in terms of businesses.
+I'm Rifqi, an undergraduate Physics student focusing on Instrumentation Physics, looking to apply my programming skills and data analysis expertise in a data science role. I have a solid command of Python, SQL, MATLAB, TensorFlow, and analytical tools like Power BI and BigQuery. Driven by a deep interest in machine learning applications, I enjoy collaborating with teams to deliver meaningful insights and successful projects. With a background in visual arts, I approach problem-solving with both creativity and analytical focus.
 
-Proficient: Python, SQL
+Proficient: Python, SQL, JavaScript
+Fields: Deep Learning, TensorFlow, Image Processing.
 
 
 <!---
