@@ -26,7 +26,7 @@ Top 10 nationally · Datathon 2025 &nbsp;|&nbsp; Bangkit Academy ML Cohort · Di
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifqidits&show_icons=true&hide_border=true&theme=default&count_private=true)](https://github.com/rifqidits)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifqidits&show_icons=true&hide_border=true&theme=transparent)](https://github.com/rifqidits)
 
 ---
 
