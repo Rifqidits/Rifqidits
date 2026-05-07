@@ -1,6 +1,6 @@
 ### Hey, I'm Rifqi 👋
 
-Automation Engineer @ a digital bank · Physics grad (UI, 2025) · ML/data engineer.  
+Automation Engineer @ Superbank · Physics grad (UI, 2025) · ML & data engineer.  
 Building LLM-powered procurement systems, full-stack internal dashboards, and ML models on the side.  
 Top 10 nationally · Datathon 2025 &nbsp;|&nbsp; Bangkit Academy ML Cohort · Distinction (96.09/100).
 
@@ -26,8 +26,19 @@ Top 10 nationally · Datathon 2025 &nbsp;|&nbsp; Bangkit Academy ML Cohort · Di
 
 ---
 
+**Featured Projects**
+
+| Project | What it does |
+|---------|-------------|
+| [terTATa-LLM](https://rifqidits.github.io/projects/tertata) | LoRA fine-tuned Mistral-7B for Indonesian MSME financial QA · F1 46.62 · Top 10 nationally, Datathon 2025 |
+| [RainScale-EDSR](https://github.com/Rifqidits/RainScale-EDSR) | EDSR CNN for 2.5× spatial super-resolution of daily rainfall over Java · RMSE 1.71 mm/day · R² 0.967 |
+| [PACS](https://rifqidits.github.io/projects/pacs) | Multi-label chest X-ray classifier (14 pathologies) with GradCAM explainability · AUC 0.82 |
+| [Bikeshare Dashboard](https://bike-sharing-dataset-qidits.streamlit.app) | Streamlit demand forecasting dashboard with interactive filters and trend analysis |
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rifqidits&theme=transparent&hide_border=true)](https://github.com/Rifqidits)
 
 ---
 
-Depok, Indonesia · [rifqidits.github.io](https://rifqidits.github.io) · [linkedin.com/in/adityarifqi](https://linkedin.com/in/adityarifqi)
+Jakarta, Indonesia · [rifqidits.github.io](https://rifqidits.github.io) · [linkedin.com/in/adityarifqi](https://linkedin.com/in/adityarifqi)
