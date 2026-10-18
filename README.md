@@ -1,7 +1,6 @@
 ### Hey, I'm Rifqi 👋
 
-Automation Engineer @ Superbank · Physics grad (UI, 2025) · ML & data engineer.  
-Building LLM-powered procurement systems, full-stack internal dashboards, and ML models on the side.  
+Forward-Deployed Engineer · Full-Stack Developer · Physics grad (UI, 2025) · ML & data engineer.  
 Top 10 nationally · Datathon 2025 &nbsp;|&nbsp; Bangkit Academy ML Cohort · Distinction (96.09/100).
 
 ---
